@@ -26,7 +26,11 @@ Redis 5.0+
 Nginx with Stream module  
 CMake 3.10+  
 
-编译运行：  
+编译运行： 
+这里可以运行autobuild.sh脚本一键编译  
+./autobuild.sh
+
+也可以一步步来：  
 cd code/build  
 cmake ..  
 make  
