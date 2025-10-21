@@ -1,0 +1,3 @@
+#表示去server子目录中寻找并执行该目录下的CMakeLists.txt文件
+add_subdirectory(server)
+add_subdirectory(client)
