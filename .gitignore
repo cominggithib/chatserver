@@ -1,0 +1,17 @@
+# C++ 编译产物
+build/
+bin/
+*.o
+*.a
+ChatClient
+ChatServer
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# 系统文件
+*.log
+.DS_Store
